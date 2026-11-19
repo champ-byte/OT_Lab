@@ -1,4 +1,4 @@
-Kavya Zala 241070081 Q4 Project
+## Kavya Zala 241070081 Q4 Project
 
 # Q.4 — ML + Quantum + Parallel Computing (crew–task assignment)
 
